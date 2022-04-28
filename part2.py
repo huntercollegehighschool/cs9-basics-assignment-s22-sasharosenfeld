@@ -7,7 +7,7 @@ Run the code below. Fix it so that the program will print the product of the num
 and 10 in the formatted sentence that's already there, and the sum of 99 and the 
 number in the formatted sentence that's already there.
 
-'''
+2'''
 
 #code starts here
 number = int(input("Enter a number: "))
